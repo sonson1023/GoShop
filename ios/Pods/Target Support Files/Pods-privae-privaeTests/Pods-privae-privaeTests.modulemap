@@ -1,0 +1,6 @@
+module Pods_privae_privaeTests {
+  umbrella header "Pods-privae-privaeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
